@@ -43,7 +43,6 @@ class _MainScreenState extends State<MainScreen> {
     LaboratoryScreen(),
   ];
 
-  // Títulos del AppBar, uno por sección
   final List<String> _titulos = const [
     'Plura',
     'Chats',

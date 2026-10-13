@@ -9,7 +9,6 @@ class NumericCounter extends StatefulWidget {
 }
 
 class _NumericCounterState extends State<NumericCounter> {
-  // Variable numérica que controla el componente
   int cantidad = 0;
   final int maximo = 10;
 
